@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T20:09:07.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YoJx0hLjaRYNnaUkZ-4l" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T20:14:25.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RqMgwcBQcKKp-NFAQbw7" version="22.0.6" type="github">
   <diagram name="Página-1" id="mwf0uzoLAlEMJ_PQ3dxy">
-    <mxGraphModel dx="2647" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,8 @@
         <mxCell id="HSl3-Hk5BajmyqIvVRTS-38" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HSl3-Hk5BajmyqIvVRTS-37">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HSl3-Hk5BajmyqIvVRTS-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Made by Catellatech C4 Wardens&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1115.5" y="1280" width="250" height="50" as="geometry" />
+        <mxCell id="HSl3-Hk5BajmyqIvVRTS-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Made by Catellatech C4 Wardens&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="1280" width="314.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HSl3-Hk5BajmyqIvVRTS-241" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;Bombillo Idea Vectores, Iconos, Gráficos y Fondos para Descargar Gratis&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMPuoBzJrr-HuK_p_wwugOry7OuSC50MrYA&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="1640" y="77.5" width="200" height="200" as="geometry" />
@@ -130,10 +130,10 @@
           <mxGeometry x="2030" y="890" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HSl3-Hk5BajmyqIvVRTS-517" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;The Wildcat Protocol&quot; src=&quot;https://github.com/code-423n4/2023-10-wildcat/blob/main/images/wildcat_logo_strapline.png?raw=true&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="871" y="1080" width="739" height="230" as="geometry" />
+          <mxGeometry x="871" y="1050" width="739" height="230" as="geometry" />
         </mxCell>
         <mxCell id="HSl3-Hk5BajmyqIvVRTS-518" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;¡For both Developers and Users!&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="961" y="1010" width="560" height="80" as="geometry" />
+          <mxGeometry x="961" y="1000" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
